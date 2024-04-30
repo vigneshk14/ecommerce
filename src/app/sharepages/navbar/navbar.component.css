@@ -1,0 +1,40 @@
+nav {
+    background-color:#F2F4F3;
+    overflow: hidden;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    float: left;
+  }
+  
+  nav ul li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #c3c3c3;
+  }
+  
+  nav ul li a.active {
+    background-color: #4CAF50;
+  }
+ .hello{
+  position: absolute;
+  height: auto;
+  left: 650px;
+    width: 155px;
+ }
+a{
+  color: black;
+  
+}

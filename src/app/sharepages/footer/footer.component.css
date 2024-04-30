@@ -1,0 +1,52 @@
+.container-side img {
+height: 50px;
+}
+.container-side p{
+    color: #565E65;
+    display: flex;
+    align-items: center;
+    margin-left: -300px;
+
+}
+
+
+.container-side{
+    justify-content:  space-between;
+    display: flex;
+    padding-bottom: 30px;
+}
+.container-side h5{
+    color: black;
+}
+.last
+{
+   background-color:  #1E2832;
+   font-size: 0.9em;
+   margin-left: -124px;
+   margin-right: -123px;
+   
+}
+.last p
+{
+    color: white;
+    font-size: 10px;
+    display:flex;
+   
+}
+.scroll {
+    display: flex;
+    justify-content: end;
+
+
+}
+.footer-ul {
+    list-style-type: none;
+    display: inline;
+    
+
+}
+.footer-ul a
+{
+     color: #565E65;;
+    text-decoration: none
+}

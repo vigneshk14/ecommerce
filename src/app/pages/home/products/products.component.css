@@ -1,0 +1,17 @@
+.main-container{
+  background-color: white;
+}
+.col-lg-8 img {
+    /* CSS properties for the img element */
+    height: 700px;
+  }
+  .col-lg-5 h2{
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    font-size: 27px;
+    font-weight: bold;
+    color: black;
+    justify-content: left;
+    display: flex;
+  }
+  
